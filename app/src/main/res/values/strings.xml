@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NYTbrowser</string>
+    <string name="buscar">Enter Text to Search</string>
+    <string name="results">Num of Results:</string>
+    <string name="status">Status:</string>
+    <string name="tit">Title:</string>
+    <string name="by">By:</string>
+    <string name="head">Head Line:</string>
+    <string name="date">Date:</string>
+    <string name="sum">Summary:</string>
+</resources>
